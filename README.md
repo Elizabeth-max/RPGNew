@@ -1,0 +1,4 @@
+使用unity2022版本与visua studio
+sprite等资源来自网络开源分享
+
+按下鼠标左键攻击，按下q防御，按下左shift冲刺
